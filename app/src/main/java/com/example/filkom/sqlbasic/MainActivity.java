@@ -47,6 +47,7 @@ public class MainActivity extends Activity {
     }
 
     //ini perubahan
+    // perubahan 2
 
     public void onClick(View view){
         Tamu tamu = null;
