@@ -46,6 +46,8 @@ public class MainActivity extends Activity {
         });
     }
 
+    //ini perubahan
+
     public void onClick(View view){
         Tamu tamu = null;
         switch (view.getId()){
