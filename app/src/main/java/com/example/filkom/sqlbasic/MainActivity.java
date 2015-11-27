@@ -29,7 +29,7 @@ public class MainActivity extends Activity {
         dataTamu = new DataSourceTamu(this);
         dataTamu.open();
 
-        List<Tamu> values = dataTamu.semuaTamu();
+        final List<Tamu> values = dataTamu.semuaTamu();
         adapter = new ArrayAdapter<Tamu>(this,
                 android.R.layout.simple_list_item_1, values);
 
