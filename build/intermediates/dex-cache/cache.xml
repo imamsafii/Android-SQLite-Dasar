@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\android\SDK\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="E:\android\Belajar Android\SQLite Dasar\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1-10678708a6bc77d991cad093a6978da6651ff9ea.jar" />
+    </item>
+    <item
+        jar="E:\android\Belajar Android\SQLite Dasar\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="E:\android\Belajar Android\SQLite Dasar\app\build\intermediates\pre-dexed\debug\classes-3dbc77375c135146fdbad56a2cd32e2ff2641126.jar" />
+    </item>
+    <item
+        jar="E:\android\Belajar Android\SQLite Dasar\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="E:\android\Belajar Android\SQLite Dasar\app\build\intermediates\pre-dexed\debug\classes-6e34bfa60f756e8f7a56a133408d06dcad3d1b94.jar" />
+    </item>
+    <item
+        jar="E:\android\Belajar Android\SQLite Dasar\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="E:\android\Belajar Android\SQLite Dasar\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1-05e8fb5f055d1ed41507ddc31a20175cb76df3dc.jar" />
+    </item>
+
+</items>
